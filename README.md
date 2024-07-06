@@ -67,6 +67,7 @@ Pros:
     Each model can be independently improved or replaced without affecting the others.
   - Fine-tuning Pretrained Models
     Utilizing pretrained models like distilbert-NER and emotion-english-distilroberta-base leverages transfer learning, which led to better performance even with limited training data.
+
 Cons:
   - Data Preprocessing:
     I did not spend time on text preprocessing or data cleaning, I think we could improve the performance, if the data preprocessing and cleaning is performed on the data.
